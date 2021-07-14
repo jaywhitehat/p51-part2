@@ -1,0 +1,23 @@
+
+
+.origami1{    
+    border: solid;    
+    display: flex;
+    justify-content: space-evenly;
+    background-color:rgb(85, 37, 148) ;
+}
+.origami2{
+    border: solid;
+    display: flex;
+    justify-content: space-evenly;
+    background-color:rgb(85, 37, 148) ;
+}
+body{
+    background-color: rgb(28, 183, 204);
+}
+.header{
+    font-style: bold;
+}
+.extra{
+    font-style: italic;
+}
